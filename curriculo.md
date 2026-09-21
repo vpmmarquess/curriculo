@@ -1,61 +1,77 @@
-# Nome Completo
+# Victor Marques
 
 ## Dados Pessoais
-- Endereço: Rua Exemplo, 123 - Cidade/UF
-- Telefone: (00) 00000-0000
-- E-mail: nome@email.com
-- LinkedIn: linkedin.com/in/nome
-- GitHub: github.com/nome
-- Portfólio: seu-site.com
+- Localização: São Paulo – SP
+- Telefone: (11) 91022-1995
+- E-mail: victor.pereira.marques@gmail.com
+- LinkedIn: linkedin.com/in/victor-marques
+- GitHub: github.com/vpmmarquess
+- Portfólio: Projetos pessoais / GitHub
 
-## Resumo Profissional
-Profissional com experiência em [área de atuação], com foco em entregar soluções de qualidade, colaborar com equipes multidisciplinares e contribuir para resultados estratégicos da organização. Possuo competências em [habilidade 1], [habilidade 2] e [habilidade 3], além de forte capacidade analítica, organização e comunicação.
+## Perfil
+Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tecnologia. Perfil analítico, organizado e orientado à resolução de problemas, com foco em desenvolvimento web.
 
 ## Objetivo Profissional
-Buscar oportunidade para aplicar conhecimentos em [área], contribuir para o crescimento da empresa, desenvolver projetos de impacto e continuar evoluindo profissionalmente.
+Desenvolvedor Júnior / Estágio em Desenvolvimento de Sistemas, com foco em aplicações web utilizando HTML, CSS e JavaScript.
+
+## Resumo Profissional
+Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tecnologia. Experiência com análise de dados, processos e sistemas corporativos. Perfil analítico, organizado e orientado à resolução de problemas, com foco em desenvolvimento web.
 
 ## Experiência Profissional
-### [Cargo Atual] - [Empresa]
-Período: [Mês/Ano] - [Mês/Ano]
-- Atuação em [responsabilidade principal].
-- Desenvolvimento de [projeto/atividade].
-- Apoio na melhoria de processos e otimização de desempenho.
-- Colaboração com a equipe para atingir metas e prazos.
+### Auxiliar de Engenharia / Produção — Engie Brasil
+Período: 2022 – 2025
+- Acompanhamento técnico da produção terceirizada e controle de qualidade.
+- Inspeções finais e validação de equipamentos.
+- Controle de estoque via Oracle Cloud.
+- Gestão de planilhas e análise de dados.
+- Treinamento técnico em projeto de terceirização.
 
-### [Cargo Anterior] - [Empresa]
-Período: [Mês/Ano] - [Mês/Ano]
-- Responsável por [atividade relevante].
-- Criação e manutenção de [sistema/processo].
-- Suporte operacional e treinamento de equipe, quando aplicável.
+### Estagiário de Engenharia Elétrica — Poly-Vac
+Período: 2019 – 2021
+- Apoio à manutenção industrial e análise de máquinas.
+- Projetos de melhoria de eficiência.
+- Manutenção preventiva e corretiva.
+
+### Jovem Aprendiz — Flash Courier
+Período: 2011 – 2012
+- Controle de informações e suporte logístico.
+
+## Projetos
+- Sistema de Cadastro de Usuários — Acessar
+- To-Do List — Acessar
+- Portfólio Pessoal — Acessar
 
 ## Formação Acadêmica
-### [Curso / Graduação]
-- [Instituição]
-- Conclusão: [Ano]
+### Análise e Desenvolvimento de Sistemas — Cursando — 1º semestre
+Universidade Cruzeiro do Sul — São Paulo
+- Formação técnica em desenvolvimento de sistemas, algoritmos e programação web.
 
-### [Curso Técnico / Especialização]
-- [Instituição]
-- Conclusão: [Ano]
+### Engenharia Elétrica — 8º semestre (trancado)
+Universidade Paulista (UNIP) — São Paulo
+- Base sólida em lógica, matemática e análise de sistemas complexos.
+
+### Informática e Rotinas Administrativas — Concluído (2011)
+Infotech — São Paulo
+- Excel, montagem e manutenção de micros, HTML e Photoshop.
 
 ## Habilidades
-- [Habilidade 1]
-- [Habilidade 2]
-- [Habilidade 3]
-- [Habilidade 4]
-- [Habilidade 5]
-- [Habilidade 6]
+- HTML / CSS / JavaScript
+- Lógica de programação
+- Excel (intermediário)
+- Noções de SQL (básico)
+- Oracle Cloud
+- Soft Expert / CH (Oracle)
 
-## Cursos e Certificações
-- [Curso/Certificação] - [Ano]
-- [Curso/Certificação] - [Ano]
-- [Curso/Certificação] - [Ano]
+## Idiomas
+- Português — Nativo
+- Inglês — Básico
 
 ## Informações Adicionais
-- Disponibilidade para mudança de cidade/região.
-- Conhecimento em ferramentas e tecnologias relevantes.
-- Inglês: [Nível]
-- Pacote Office: [Nível]
+- Disponibilidade para atuar em São Paulo/SP
+- Experiência em análise de dados, processos e sistemas corporativos
+- Perfil orientado à resolução de problemas e melhoria contínua
+- Referências: GitHub / Portfólio | Projetos pessoais
 
 ## Assinatura
-[Nome Completo]
-[Cargo ou área de atuação]
+Victor Marques
+Desenvolvedor Júnior / Estudante de ADS
