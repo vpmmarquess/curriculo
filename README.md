@@ -9,7 +9,6 @@ Este repositório foi criado para manter um currículo profissional em formato s
 ## Como usar
 
 1. Edite o arquivo `curriculo.md`.
-2. Substitua os dados fictícios pelos dados reais.
+2. Substitua os dados quando necessário para manter sempre atualizado.
 3. Use o Git para versionar as alterações.
 
-> Como o documento base não foi enviado no workspace, este é um modelo inicial, pronto para personalização.
